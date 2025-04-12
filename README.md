@@ -29,8 +29,7 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
 <details open>
 <summary><b>Backend</b></summary>
 <br>
-
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)   
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -46,17 +45,21 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
   
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </details>
 
 <details open>
 <summary><b>Frontend & Other Skills</b></summary>
 <br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 </details>
@@ -67,6 +70,7 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
   
 ![Llama 3](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![DeepSeek-R1](https://img.shields.io/badge/DeepSeek_R1-7B68EE?style=for-the-badge&logo=deepseek&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </details>
 
@@ -78,6 +82,9 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
     <td width="50%">
       <h3 align="center">Smart Motel Management with AI Chatbot</h3>
       <div align="center">
+        <a href="https://github.com/chianhluvC/Smart-Motel-Management-with-AI-Powered-Chatbot" target="_blank">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+MySQL;WebSocket+%7C+Llama3;Room+booking+%7C+Payment+integration" alt="Project 1" />
+        </a>
         <p>
           <a href="https://github.com/chianhluvC/Smart-Motel-Management-with-AI-Powered-Chatbot" target="_blank">
             <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
@@ -94,6 +101,9 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
     <td width="50%">
       <h3 align="center">Smart Laundry Management System with AI</h3>
       <div align="center">
+        <a href="https://github.com/chianhluvC/Smart-Laundry-Management-System-with-AI" target="_blank">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=PHP+%7C+MySQL+%7C+JavaScript;DeepSeek-R1+%7C+WebSocket;Order+tracking+%7C+Inventory+management" alt="Project 2" />
+        </a>
         <p>
           <a href="https://github.com/chianhluvC/Smart-Laundry-Management-System-with-AI" target="_blank">
             <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
