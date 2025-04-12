@@ -67,7 +67,6 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
   
 ![Llama 3](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![DeepSeek-R1](https://img.shields.io/badge/DeepSeek_R1-7B68EE?style=for-the-badge&logo=deepseek&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </details>
 
