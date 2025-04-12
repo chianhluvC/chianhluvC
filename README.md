@@ -45,9 +45,7 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
   
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 </details>
 
@@ -70,7 +68,7 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
   
 ![Llama 3](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![DeepSeek-R1](https://img.shields.io/badge/DeepSeek_R1-7B68EE?style=for-the-badge&logo=deepseek&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white)
+
 
 </details>
 
