@@ -82,9 +82,6 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
     <td width="50%">
       <h3 align="center">Smart Motel Management with AI Chatbot</h3>
       <div align="center">
-        <a href="https://github.com/chianhluvC/Smart-Motel-Management-with-AI-Powered-Chatbot" target="_blank">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+MySQL;WebSocket+%7C+Llama3;Room+booking+%7C+Payment+integration" alt="Project 1" />
-        </a>
         <p>
           <a href="https://github.com/chianhluvC/Smart-Motel-Management-with-AI-Powered-Chatbot" target="_blank">
             <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
@@ -101,9 +98,6 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
     <td width="50%">
       <h3 align="center">Smart Laundry Management System with AI</h3>
       <div align="center">
-        <a href="https://github.com/chianhluvC/Smart-Laundry-Management-System-with-AI" target="_blank">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=PHP+%7C+MySQL+%7C+JavaScript;DeepSeek-R1+%7C+WebSocket;Order+tracking+%7C+Inventory+management" alt="Project 2" />
-        </a>
         <p>
           <a href="https://github.com/chianhluvC/Smart-Laundry-Management-System-with-AI" target="_blank">
             <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
