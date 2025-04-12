@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chi Anh</h1>
 <h3 align="center">Backend Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chianhluvC&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 🎯 I'm a passionate Backend Developer with a strong interest in building scalable systems and integrating AI into real-world applications. I love working with modern backend technologies and exploring how AI can enhance traditional systems like motel or laundry management.
