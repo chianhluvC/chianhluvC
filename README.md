@@ -75,73 +75,77 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
 ## 🚀 Featured Projects
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Smart Motel Management with AI Chatbot</h3>
-      <div align="center">
-        <a href="https://github.com/chianhluvC/Smart-Motel-Management-with-AI-Powered-Chatbot" target="_blank">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+MySQL;WebSocket+%7C+Llama3;Room+booking+%7C+Payment+integration" alt="Project 1" />
-        </a>
-        <p>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Smart Motel Management with AI Chatbot</h3>
+        <div align="center">
           <a href="https://github.com/chianhluvC/Smart-Motel-Management-with-AI-Powered-Chatbot" target="_blank">
-            <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+MySQL;WebSocket+%7C+Llama3;Room+booking+%7C+Payment+integration" alt="Project 1" />
           </a>
-        </p>
-        <p><strong>A full-featured rental management system that leverages AI to assist tenants in finding and booking rooms efficiently.</strong></p>
-        <ul align="left">
-          <li>Integrated Llama 3 powered chatbot for intelligent room recommendations</li>
-          <li>Implemented online payments, revenue tracking, and customer management</li>
-          <li>Built with Java, Spring Boot, MySQL, and WebSocket for real-time updates</li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Smart Laundry Management System with AI</h3>
-      <div align="center">
-        <a href="https://github.com/chianhluvC/Smart-Laundry-Management-System-with-AI" target="_blank">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=PHP+%7C+MySQL+%7C+JavaScript;DeepSeek-R1+%7C+WebSocket;Order+tracking+%7C+Inventory+management" alt="Project 2" />
-        </a>
-        <p>
+          <p>
+            <a href="https://github.com/chianhluvC/Smart-Motel-Management-with-AI-Powered-Chatbot" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>A full-featured rental management system that leverages AI to assist tenants in finding and booking rooms efficiently.</strong></p>
+          <ul align="left">
+            <li>Integrated Llama 3 powered chatbot for intelligent room recommendations</li>
+            <li>Implemented online payments, revenue tracking, and customer management</li>
+            <li>Built with Java, Spring Boot, MySQL, and WebSocket for real-time updates</li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Smart Laundry Management System with AI</h3>
+        <div align="center">
           <a href="https://github.com/chianhluvC/Smart-Laundry-Management-System-with-AI" target="_blank">
-            <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=PHP+%7C+MySQL+%7C+JavaScript;DeepSeek-R1+%7C+WebSocket;Order+tracking+%7C+Inventory+management" alt="Project 2" />
           </a>
-        </p>
-        <p><strong>Modern web-based Laundry Management System that helps businesses streamline operations using AI insights.</strong></p>
-        <ul align="left">
-          <li>DeepSeek-R1 AI integration for demand forecasting and resource optimization</li>
-          <li>Real-time order tracking and inventory management</li>
-          <li>Developed with PHP, MySQL, JavaScript, and WebSocket technology</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Smart Hometown Specialty Shop with AI</h3>
-      <div align="center">
-        <a href="https://github.com/chianhluvC/Smart-Hometown-Specialty-Shop-with-AI" target="_blank">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=ASP.NET+Core+MVC+%7C+SQL+Server;DeepSeek+V3+%7C+VNPay+API;E-commerce+%7C+AI+Product+Recommendations" alt="Project 3" />
-        </a>
-        <p>
+          <p>
+            <a href="https://github.com/chianhluvC/Smart-Laundry-Management-System-with-AI" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>Modern web-based Laundry Management System that helps businesses streamline operations using AI insights.</strong></p>
+          <ul align="left">
+            <li>DeepSeek-R1 AI integration for demand forecasting and resource optimization</li>
+            <li>Real-time order tracking and inventory management</li>
+            <li>Developed with PHP, MySQL, JavaScript, and WebSocket technology</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Smart Hometown Specialty Shop with AI</h3>
+        <div align="center">
           <a href="https://github.com/chianhluvC/Smart-Hometown-Specialty-Shop-with-AI" target="_blank">
-            <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=ASP.NET+Core+MVC+%7C+SQL+Server;DeepSeek+V3+%7C+VNPay+API;E-commerce+%7C+AI+Product+Recommendations" alt="Project 3" />
           </a>
-        </p>
-        <p><strong>Intelligent e-commerce platform for traditional Vietnamese hometown specialties with AI-powered recommendations.</strong></p>
-        <ul align="left">
-          <li>Smart Specialty Recommender using DeepSeek V3 for natural language product discovery</li>
-          <li>Secure online payment processing through VNPay payment gateway integration</li>
-          <li>Built with ASP.NET Core MVC (.NET 7), Entity Framework Core, and SQL Server</li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%">
-      <!-- Empty cell for future project -->
-    </td>
-  </tr>
-</table>
+          <p>
+            <a href="https://github.com/chianhluvC/Smart-Hometown-Specialty-Shop-with-AI" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>Intelligent e-commerce platform for traditional Vietnamese hometown specialties with AI-powered recommendations.</strong></p>
+          <ul align="left">
+            <li>Smart Specialty Recommender using DeepSeek V3 for natural language product discovery</li>
+            <li>Secure online payment processing through VNPay payment gateway integration</li>
+            <li>Built with ASP.NET Core MVC (.NET 7), Entity Framework Core, and SQL Server</li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center"><i>Coming Soon...</i></h3>
+        <div align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=435&lines=Stay+tuned+for+new+AI+projects!" alt="Future Project" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ## 📊 GitHub Analytics
 
