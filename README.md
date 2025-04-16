@@ -68,7 +68,7 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
   
 ![Llama 3](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![DeepSeek-R1](https://img.shields.io/badge/DeepSeek_R1-7B68EE?style=for-the-badge&logo=deepseek&logoColor=white)
-
+![DeepSeek V3](https://img.shields.io/badge/DeepSeek_V3-6A5ACD?style=for-the-badge&logo=deepseek&logoColor=white)
 
 </details>
 
@@ -114,6 +114,30 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
           <li>Developed with PHP, MySQL, JavaScript, and WebSocket technology</li>
         </ul>
       </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Smart Hometown Specialty Shop with AI</h3>
+      <div align="center">
+        <a href="https://github.com/chianhluvC/Smart-Hometown-Specialty-Shop-with-AI" target="_blank">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=ASP.NET+Core+MVC+%7C+SQL+Server;DeepSeek+V3+%7C+Razor+Views;AI+Chatbot+%7C+E-commerce" alt="Project 3" />
+        </a>
+        <p>
+          <a href="https://github.com/chianhluvC/Smart-Hometown-Specialty-Shop-with-AI" target="_blank">
+            <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p><strong>Intelligent e-commerce platform for traditional Vietnamese hometown specialties with AI-powered product recommendations.</strong></p>
+        <ul align="left">
+          <li>Smart Specialty Recommender using DeepSeek V3 AI chatbot integration</li>
+          <li>Secure online payment processing through VNPay API integration</li>
+          <li>Built with ASP.NET Core MVC (.NET 7), Entity Framework Core, and Bootstrap 5</li>
+        </ul>
+      </div>
+    </td>
+    <td width="50%">
+      <!-- Empty cell for future project -->
     </td>
   </tr>
 </table>
