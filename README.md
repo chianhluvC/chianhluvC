@@ -68,7 +68,7 @@ const ChiAnh = {
 <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,php,aws&theme=dark" />
 
 ### **Database & Infrastructure** 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis,docker,kubernetes&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
 
 ### **Frontend & Tools**
 <img src="https://skillicons.dev/icons?i=js,html,css,git,postman,vscode,idea&theme=dark" />
@@ -206,10 +206,6 @@ const ChiAnh = {
 <div align="center">
   <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=chianhluvC&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&bg_color=0D1117,1A1B27,2D1B69&count_private=true" />
   <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chianhluvC&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=FFFFFF&bg_color=0D1117,1A1B27,2D1B69" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=chianhluvC&theme=dark&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FFE66D&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Streak Stats" />
 </div>
 
 <div align="center">
