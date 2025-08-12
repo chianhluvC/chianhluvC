@@ -211,7 +211,7 @@ const ChiAnh = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=chianhluvC&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FFE66D&currStreakLabel=00D4FF" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chianhluvC&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FFE66D&currStreakLabel=00D4FF" alt="Streak Stats" />
 </div>
 
 <div align="center">
@@ -246,7 +246,7 @@ const ChiAnh = {
     <img src="https://img.shields.io/badge/Email-Drop_a_Line!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
+<br>
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=chianhluvC&style=for-the-badge&color=00D4FF&labelColor=000000" />
