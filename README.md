@@ -136,10 +136,24 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
           </ul>
         </div>
       </td>
-      <td width="50%" valign="top">
-        <h3 align="center"><i>Coming Soon...</i></h3>
+<td width="50%" valign="top">
+        <h3 align="center">AWS E-Commerce Deployment Workshop</h3>
         <div align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=435&lines=Stay+tuned+for+new+AI+projects!" alt="Future Project" />
+          <a href="https://github.com/chianhluvC/Deploying-a-Full-Stack-E-Commerce-Application-for-Electronics-using-AWS" target="_blank">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=VPC+%7C+EC2+%7C+S3+%7C+RDS+%7C+Route+53;Cloud+Developer;AWS+Deployment+Workshop" alt="Project 4" />
+          </a>
+          <p>
+            <a href="https://github.com/chianhluvC/workshop-aws-e-commerce-deployment" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>AWS-based e-commerce deployment project demonstrating scalable and secure cloud hosting.</strong></p>
+          <ul align="left">
+            <li>Hosted backend & frontend on EC2 for application logic and UI</li>
+            <li>Used RDS to store product, order, and user data</li>
+            <li>Stored static assets (images, files) in S3</li>
+            <li>Managed domain and routing with Route 53</li>
+          </ul>
         </div>
       </td>
     </tr>
