@@ -63,6 +63,24 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
 </details>
 
 <details open>
+<summary><b>Cloud & DevOps</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=FF9900&center=true&vCenter=true&width=600&lines=AWS+Lambda+%7C+API+Gateway+%7C+CloudWatch;EC2+%7C+RDS+%7C+S3+%7C+Scalable+Cloud+Solutions" alt="Cloud Skills Typing SVG" />
+</p>
+
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-FF4F00?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F00?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+</details>
+
+
+<details open>
 <summary><b>AI Integration</b></summary>
 <br>
   
