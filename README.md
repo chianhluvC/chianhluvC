@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chi Anh</h1>
-<h3 align="center">Backend Engineer with AI Integration Expertise</h3>
+<h3 align="center">Backend Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Java+%26+Spring+Boot+Developer;.NET+Core+Engineer;AI+Integration+Specialist;Scalable+Systems+Architect" alt="Typing SVG" />
