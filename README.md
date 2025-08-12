@@ -89,7 +89,6 @@ const ChiAnh = {
 
 **Cloud & DevOps** 
 - ☁️ **AWS Services** - Lambda, API Gateway, EC2, RDS, S3, CloudWatch
-- 🐳 **Containerization** - Docker, Kubernetes orchestration
 - 🔄 **CI/CD Pipelines** - Automated deployment workflows
 
 **AI Integration**
@@ -99,7 +98,6 @@ const ChiAnh = {
 
 **Database Technologies**
 - 🗄️ **Relational** - MySQL, PostgreSQL, SQL Server optimization
-- ⚡ **Caching** - Redis for performance enhancement
 - 📊 **Data Modeling** - Efficient schema design
 
 </details>
@@ -211,7 +209,7 @@ const ChiAnh = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=chianhluvC&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FFE66D&currStreakLabel=00D4FF" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=chianhluvC&theme=dark&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FFE66D&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Streak Stats" />
 </div>
 
 <div align="center">
