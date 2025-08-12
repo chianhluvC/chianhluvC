@@ -13,15 +13,19 @@
 ## 🌟 **Connect With Me**
 
 <div align="center">
+  
   <a href="https://www.linkedin.com/in/hoangnguyenchianh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/chianhluvC" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hoangnguyenchianh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
+
 </div>
 
 <br>
@@ -202,12 +206,12 @@ const ChiAnh = {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=chianhluvC&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&bg_color=0D1117,1A1B27,2D1B69&count_private=true" />
-  <img width="335" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chianhluvC&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=FFFFFF&bg_color=0D1117,1A1B27,2D1B69" />
+  <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=chianhluvC&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&bg_color=0D1117,1A1B27,2D1B69&count_private=true" />
+  <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chianhluvC&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=FFFFFF&bg_color=0D1117,1A1B27,2D1B69" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chianhluvC&theme=tokyonight&hide_border=true&background=0D1117,1A1B27,2D1B69&stroke=00D4FF&ring=00D4FF&fire=FFE66D&currStreakLabel=00D4FF" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=chianhluvC&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FFE66D&currStreakLabel=00D4FF" alt="Streak Stats" />
 </div>
 
 <div align="center">
@@ -244,9 +248,13 @@ const ChiAnh = {
 </div>
 
 <div align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=chianhluvC&style=for-the-badge&color=00D4FF&labelColor=000000" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/chianhluvC?style=for-the-badge&color=00D4FF&labelColor=000000" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/chianhluvC?style=for-the-badge&color=00D4FF&labelColor=000000" />
+
 </div>
 
 <div align="center">
