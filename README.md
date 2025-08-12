@@ -169,7 +169,7 @@ I'm a passionate Backend Developer focused on building **scalable systems**, **i
             <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=VPC+%7C+EC2+%7C+S3+%7C+RDS+%7C+Route+53;Cloud+Developer;AWS+Deployment+Workshop" alt="Project 4" />
           </a>
           <p>
-            <a href="https://github.com/chianhluvC/workshop-aws-e-commerce-deployment" target="_blank">
+            <a href="[https://github.com/chianhluvC/workshop-aws-e-commerce-deployment](https://github.com/chianhluvC/Deploying-a-Full-Stack-E-Commerce-Application-for-Electronics-using-AWS)" target="_blank">
               <img src="https://img.shields.io/badge/Code-00A98F?style=for-the-badge&logo=github&logoColor=white" />
             </a>
           </p>
