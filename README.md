@@ -13,16 +13,23 @@
 
 </div>
 
-## 💫 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Backend%20%2B%20AI%20%2B%20Cloud&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-I'm a passionate Backend Developer focused on building **scalable systems** and **integrating AI into practical applications**. I specialize in:
+## 💫 About Me  
 
-- 🔹 Developing robust backend infrastructure with Java, Spring Boot, and .NET Core
-- 🔹 Creating intelligent management systems enhanced by AI capabilities
-- 🔹 Building real-time applications with WebSocket and modern database technologies
-- 🔹 Implementing innovative solutions for traditional industries like property and service management
+I'm a passionate Backend Developer focused on building **scalable systems**, **integrating AI into practical applications**, and **leveraging cloud technologies** ☁️. I specialize in:  
 
-> 🌱 Currently enhancing my expertise in distributed systems, advanced LLM integration, and real-time data pipelines.
+- 🔹 Developing robust backend infrastructure with Java, Spring Boot, and .NET Core  
+- 🔹 Creating intelligent management systems enhanced by AI capabilities  
+- 🔹 Building real-time applications with WebSocket and modern database technologies  
+- 🔹 Designing and deploying **cloud-based solutions** using AWS and other cloud platforms  
+- 🔹 Implementing innovative solutions for traditional industries like property and service management  
+
+> 🌱 Currently enhancing my expertise in distributed systems, advanced LLM integration, real-time data pipelines, and **cloud-native architectures**.  
+
+---
 
 ## 🛠️ Technology Stack
 
@@ -36,6 +43,7 @@ I'm a passionate Backend Developer focused on building **scalable systems** and 
 ![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </details>
 
