@@ -211,7 +211,7 @@ const ChiAnh = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chianhluvC&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FFE66D&currStreakLabel=00D4FF" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=chianhluvC&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FFE66D&currStreakLabel=00D4FF" alt="Streak Stats" />
 </div>
 
 <div align="center">
@@ -239,14 +239,17 @@ const ChiAnh = {
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Always+open+to+exciting+collaborations!;Let's+create+innovative+solutions+together!;Passionate+about+AI+%2B+Backend+%2B+Cloud!" />
   </p>
   
+  <br>
+  
   <a href="https://www.linkedin.com/in/hoangnguyenchianh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hoangnguyenchianh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Drop_a_Line!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-<br>
+
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=chianhluvC&style=for-the-badge&color=00D4FF&labelColor=000000" />
